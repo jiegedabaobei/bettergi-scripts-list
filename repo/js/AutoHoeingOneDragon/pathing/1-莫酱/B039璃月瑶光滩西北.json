@@ -13,7 +13,7 @@
     "bgi_version": "0.45.0",
     "description": "  路线信息：该路线预计用时158.51秒，包含以下怪物：3只丘丘人、2只打手丘丘人、3只冲锋丘丘人、4只木盾丘丘人、1只火箭丘丘人、2只雷箭丘丘人、1只冰箭丘丘人、1只木盾丘丘暴徒、1只火斧丘丘暴徒、1只草丘丘萨满、2只水萤、1只遗迹猎者。",
     "enable_monster_loot_split": false,
-    "last_modified_time": 1775389975641,
+    "last_modified_time": 1775929214904,
     "map_match_method": "",
     "map_name": "Teyvat",
     "name": "B039璃月瑶光滩西北",
@@ -100,17 +100,17 @@
       "id": 9,
       "move_mode": "dash",
       "type": "path",
-      "x": -72.193359375,
-      "y": 439.75146484375
+      "x": -69.689453125,
+      "y": 438.90234375
     },
     {
       "action": "",
       "action_params": "",
       "id": 10,
-      "move_mode": "dash",
+      "move_mode": "walk",
       "type": "path",
-      "x": -72.193359375,
-      "y": 439.75146484375
+      "x": -69.689453125,
+      "y": 438.90234375
     },
     {
       "action": "fight",
