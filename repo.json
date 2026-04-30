@@ -1,5 +1,5 @@
 {
-  "time": "20260429224935",
+  "time": "20260430085320",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -99354,7 +99354,7 @@
         {
           "name": "铁匠铺",
           "type": "directory",
-          "version": "2.4.1",
+          "version": "2.4.2",
           "author": "呱呱z",
           "authors": [
             {
@@ -99379,7 +99379,7 @@
             "模板匹配",
             "OCR"
           ],
-          "lastUpdated": "2026-01-11 09:54:53"
+          "lastUpdated": "2026-04-30 08:52:19"
         },
         {
           "name": "食材加工",
