@@ -1,5 +1,5 @@
 {
-  "time": "20260501192424",
+  "time": "20260501193037",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -99124,7 +99124,7 @@
         {
           "name": "AutoHoeingOneDragon",
           "type": "directory",
-          "version": "2.8.2",
+          "version": "2.9.0",
           "author": "mno",
           "authors": [
             {
@@ -99138,7 +99138,7 @@
           ],
           "description": "锄地一条龙~|~一站式解决自动化锄地，支持只拾取狗粮，请仔细阅读README.md后使用",
           "tags": [],
-          "lastUpdated": "2026-04-22 08:24:17"
+          "lastUpdated": "2026-05-01 19:30:10"
         },
         {
           "name": "AutoInstructorLock",
