@@ -1,5 +1,5 @@
 {
-  "time": "20260501213042",
+  "time": "20260502073314",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -98519,7 +98519,7 @@
         {
           "name": "AAA-Artifacts-Bulk-Supply",
           "type": "directory",
-          "version": "2.4.1",
+          "version": "2.4.2",
           "author": "mno",
           "authors": [
             {
@@ -98535,7 +98535,7 @@
           "tags": [
             "狗粮"
           ],
-          "lastUpdated": "2026-04-19 06:20:12"
+          "lastUpdated": "2026-05-02 07:32:44"
         },
         {
           "name": "ABGIHoui",
