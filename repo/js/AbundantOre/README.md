@@ -30,6 +30,15 @@
 
 ## ChangeLog
 
+### 0.31
+
+- 优化了莉奈娅挖矿的逻辑
+- 优化了莉奈娅的挖矿动作，special thanks to [@this-Fish](https://github.com/this-Fish)
+
+### 0.30
+
+- 修复若干bug
+
 ### 0.29
 
 - 稍微优化了莉奈娅挖矿的逻辑
