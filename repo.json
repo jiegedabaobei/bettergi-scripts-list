@@ -1,5 +1,5 @@
 {
-  "time": "20260430101056",
+  "time": "20260501114225",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -99752,11 +99752,11 @@
         {
           "name": "LinneaMining",
           "type": "directory",
-          "version": "0.1",
-          "author": "zaodonganqi",
+          "version": "0.1.1",
+          "author": "躁动的氨气",
           "authors": [
             {
-              "name": "zaodonganqi",
+              "name": "躁动的氨气",
               "link": "https://github.com/zaodonganqi"
             }
           ],
@@ -99764,7 +99764,7 @@
           "tags": [
             "bgi≥0.61.0"
           ],
-          "lastUpdated": "2026-04-29 22:49:04"
+          "lastUpdated": "2026-05-01 11:41:57"
         },
         {
           "name": "MiliastraExperiencePlayback",
