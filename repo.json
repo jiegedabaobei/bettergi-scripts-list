@@ -1,5 +1,5 @@
 {
-  "time": "20260501210336",
+  "time": "20260501211637",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -20495,17 +20495,20 @@
                             {
                               "name": "lifrom",
                               "link": "https://github.com/pkjsjq"
+                            },
+                            {
+                              "name": "大帅比"
                             }
                           ],
-                          "description": "",
+                          "description": "第一个采集点位往里挪了一下，否则容易冲下坡",
                           "tags": [
-                            "bgi≥0.42.0",
+                            "bgi≥0.52.0",
                             "地方特产",
                             "须弥",
                             "劫波莲",
                             "纳西妲"
                           ],
-                          "lastUpdated": "2026-04-15 19:52:58"
+                          "lastUpdated": "2026-05-01 12:59:34"
                         },
                         {
                           "name": "07-劫波莲-觉王之殿-3个.json",
@@ -20516,17 +20519,20 @@
                             {
                               "name": "lifrom",
                               "link": "https://github.com/pkjsjq"
+                            },
+                            {
+                              "name": "大帅比"
                             }
                           ],
-                          "description": "",
+                          "description": "直行会卡死，往右边绕了一下",
                           "tags": [
-                            "bgi≥0.42.0",
+                            "bgi≥0.52.0",
                             "地方特产",
                             "须弥",
                             "劫波莲",
                             "纳西妲"
                           ],
-                          "lastUpdated": "2026-04-15 19:52:58"
+                          "lastUpdated": "2026-05-01 12:59:34"
                         },
                         {
                           "name": "08-劫波莲-须弥城西边-7个.json",
@@ -99075,7 +99081,7 @@
         {
           "name": "AutoFriendshipFight",
           "type": "directory",
-          "version": "1.5.3",
+          "version": "1.5.4",
           "author": "秋云",
           "authors": [
             {
@@ -99093,7 +99099,7 @@
             "鳄鱼",
             "兽肉"
           ],
-          "lastUpdated": "2026-04-28 12:31:15"
+          "lastUpdated": "2026-05-01 21:14:52"
         },
         {
           "name": "AutoFriendshipFowl",
