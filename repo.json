@@ -1,5 +1,5 @@
 {
-  "time": "20260502073314",
+  "time": "20260502093827",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -100007,7 +100007,7 @@
         {
           "name": "SetTime",
           "type": "directory",
-          "version": "1.0",
+          "version": "1.1",
           "author": "Tim",
           "authors": [
             {
@@ -100028,7 +100028,7 @@
           ],
           "description": "调整游戏时间~|~用于调整游戏时间",
           "tags": [],
-          "lastUpdated": "2026-01-12 15:27:06"
+          "lastUpdated": "2026-05-02 09:37:54"
         },
         {
           "name": "SkipMonthlyCard",
