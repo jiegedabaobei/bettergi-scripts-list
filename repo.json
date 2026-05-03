@@ -1,5 +1,5 @@
 {
-  "time": "20260502093827",
+  "time": "20260503221212",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -100560,7 +100560,7 @@
         {
           "name": "批量讨伐角色养成材料BOSS",
           "type": "directory",
-          "version": "0.6.1",
+          "version": "0.6.2",
           "author": "DarkFlameMaster",
           "authors": [
             {
@@ -100570,7 +100570,7 @@
           ],
           "description": "批量讨伐角色养成材料BOSS~|~一次性配置多个角色材料的boss，体力不足时保存进度，每次运行时断点续打",
           "tags": [],
-          "lastUpdated": "2026-04-12 12:36:05"
+          "lastUpdated": "2026-05-03 22:11:16"
         },
         {
           "name": "日志分析工具",
