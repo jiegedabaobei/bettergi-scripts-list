@@ -1,5 +1,5 @@
 {
-  "time": "20260503221212",
+  "time": "20260503223640",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -98829,7 +98829,7 @@
         {
           "name": "AutoArtifacts_A_B_Extra",
           "type": "directory",
-          "version": "2.5.5",
+          "version": "2.5.6",
           "author": "Yang-z",
           "authors": [
             {
@@ -98839,9 +98839,9 @@
           ],
           "description": "狗粮ABE路线，自动拾取分解~|~圣遗物狗粮AB及额外路线，自动轮换，自动分解，就近恢复。",
           "tags": [
-            "bgi≥0.45.1"
+            "bgi≥0.57.0"
           ],
-          "lastUpdated": "2025-10-01 13:50:46"
+          "lastUpdated": "2026-05-03 22:36:06"
         },
         {
           "name": "AutoBackpackCleaner",
