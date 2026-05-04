@@ -1,5 +1,5 @@
 {
-  "time": "20260504193453",
+  "time": "20260504194245",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -98607,7 +98607,7 @@
         {
           "name": "AbundantOre",
           "type": "directory",
-          "version": "0.31",
+          "version": "0.32",
           "author": "芝士贝果",
           "authors": [
             {
@@ -98619,7 +98619,7 @@
           "tags": [
             "bgi≥0.60.0"
           ],
-          "lastUpdated": "2026-04-17 03:03:41"
+          "lastUpdated": "2026-05-04 21:42:17"
         },
         {
           "name": "AcceleratedEditionSwitchParty",
