@@ -9,10 +9,10 @@
     "bgi_version": "0.52.0",
     "description": "",
     "enable_monster_loot_split": false,
-    "last_modified_time": 1777395777806,
+    "last_modified_time": 1777458891086,
     "map_match_method": "",
     "map_name": "Teyvat",
-    "name": "E02-枫丹-枫丹廷西2-2个",
+    "name": "E17-松茸-枫丹-中央实验室遗址东北-1个",
     "tags": [],
     "type": "collect",
     "version": "1.0"
@@ -24,35 +24,35 @@
       "id": 1,
       "move_mode": "walk",
       "type": "teleport",
-      "x": 4824.0127,
-      "y": 3628.9951
+      "x": 3811.9521,
+      "y": 4952.9004
     },
     {
-      "action": "stop_flying",
+      "action": "",
       "action_params": "",
       "id": 2,
-      "move_mode": "fly",
+      "move_mode": "dash",
       "type": "path",
-      "x": 4876.0283,
-      "y": 3620.6318
+      "x": 3753.7559,
+      "y": 5037.7764
     },
     {
-      "action": "combat_script",
-      "action_params": "wait(0.1)",
+      "action": "",
+      "action_params": "",
       "id": 3,
       "move_mode": "dash",
       "type": "path",
-      "x": 4883.584,
-      "y": 3620.7715
+      "x": 3733.8926,
+      "y": 5040.9492
     },
     {
       "action": "",
       "action_params": "",
       "id": 4,
-      "move_mode": "dash",
+      "move_mode": "jump",
       "type": "path",
-      "x": 4877.2568,
-      "y": 3621.6724
+      "x": 3727.7754,
+      "y": 5037.624
     },
     {
       "action": "",
@@ -60,8 +60,8 @@
       "id": 5,
       "move_mode": "dash",
       "type": "path",
-      "x": 4899.8848,
-      "y": 3642.5303
+      "x": 3727.041,
+      "y": 5026.9146
     },
     {
       "action": "combat_script",
@@ -69,8 +69,8 @@
       "id": 6,
       "move_mode": "dash",
       "type": "path",
-      "x": 4914.5635,
-      "y": 3653.4014
+      "x": 3725.5264,
+      "y": 5022.1743
     }
   ]
 }

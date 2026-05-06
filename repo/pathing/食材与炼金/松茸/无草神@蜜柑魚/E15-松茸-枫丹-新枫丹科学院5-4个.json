@@ -9,10 +9,10 @@
     "bgi_version": "0.52.0",
     "description": "",
     "enable_monster_loot_split": false,
-    "last_modified_time": 1777460611377,
+    "last_modified_time": 1777457822360,
     "map_match_method": "",
     "map_name": "Teyvat",
-    "name": "E21-枫丹-茉洁站-4个",
+    "name": "E15-松茸-枫丹-新枫丹科学院5-4个",
     "tags": [],
     "type": "collect",
     "version": "1.0"
@@ -24,8 +24,8 @@
       "id": 1,
       "move_mode": "walk",
       "type": "teleport",
-      "x": 3635.7363,
-      "y": 3801.623
+      "x": 4301.6357,
+      "y": 4765.2559
     },
     {
       "action": "",
@@ -33,8 +33,8 @@
       "id": 2,
       "move_mode": "dash",
       "type": "path",
-      "x": 3720.9727,
-      "y": 3811.8613
+      "x": 4318.0908,
+      "y": 4773.2651
     },
     {
       "action": "",
@@ -42,17 +42,17 @@
       "id": 3,
       "move_mode": "dash",
       "type": "path",
-      "x": 3728.1602,
-      "y": 3806.5854
+      "x": 4341.2012,
+      "y": 4761.5928
     },
     {
-      "action": "combat_script",
-      "action_params": "wait(0.05)",
+      "action": "",
+      "action_params": "",
       "id": 4,
       "move_mode": "dash",
       "type": "path",
-      "x": 3736.4248,
-      "y": 3810.2861
+      "x": 4335.0566,
+      "y": 4756.5845
     },
     {
       "action": "",
@@ -60,35 +60,35 @@
       "id": 5,
       "move_mode": "dash",
       "type": "path",
-      "x": 3755.9102,
-      "y": 3816.5396
+      "x": 4339.0117,
+      "y": 4750.4551
     },
     {
-      "action": "combat_script",
-      "action_params": "wait(0.21)",
+      "action": "stop_flying",
+      "action_params": "",
       "id": 6,
-      "move_mode": "dash",
+      "move_mode": "fly",
       "type": "path",
-      "x": 3764.0742,
-      "y": 3813.3174
+      "x": 4351.6807,
+      "y": 4744.9287
     },
     {
       "action": "",
       "action_params": "",
       "id": 7,
-      "move_mode": "walk",
-      "type": "teleport",
-      "x": 3635.7363,
-      "y": 3801.623
+      "move_mode": "dash",
+      "type": "path",
+      "x": 4373.668,
+      "y": 4703.834
     },
     {
-      "action": "stop_flying",
+      "action": "",
       "action_params": "",
       "id": 8,
-      "move_mode": "fly",
+      "move_mode": "dash",
       "type": "path",
-      "x": 3637.4863,
-      "y": 3825.2598
+      "x": 4374.0107,
+      "y": 4648.2842
     },
     {
       "action": "",
@@ -96,17 +96,17 @@
       "id": 9,
       "move_mode": "dash",
       "type": "path",
-      "x": 3651.6484,
-      "y": 3861.6528
+      "x": 4375.5547,
+      "y": 4633.8281
     },
     {
-      "action": "combat_script",
-      "action_params": "wait(0.05)",
+      "action": "",
+      "action_params": "",
       "id": 10,
       "move_mode": "dash",
       "type": "path",
-      "x": 3641.6523,
-      "y": 3887.5684
+      "x": 4368.5967,
+      "y": 4630.3604
     },
     {
       "action": "",
@@ -114,8 +114,8 @@
       "id": 11,
       "move_mode": "dash",
       "type": "path",
-      "x": 3644.5811,
-      "y": 3880.2896
+      "x": 4366.0908,
+      "y": 4635.7856
     },
     {
       "action": "",
@@ -123,8 +123,8 @@
       "id": 12,
       "move_mode": "dash",
       "type": "path",
-      "x": 3602.6338,
-      "y": 3879.8716
+      "x": 4345.7959,
+      "y": 4628.3589
     },
     {
       "action": "combat_script",
@@ -132,8 +132,8 @@
       "id": 13,
       "move_mode": "dash",
       "type": "path",
-      "x": 3599.4795,
-      "y": 3874.6279
+      "x": 4347.2383,
+      "y": 4624.9307
     }
   ]
 }

@@ -9,10 +9,10 @@
     "bgi_version": "0.52.0",
     "description": "",
     "enable_monster_loot_split": false,
-    "last_modified_time": 1777459104934,
+    "last_modified_time": 1777460321623,
     "map_match_method": "",
     "map_name": "Teyvat",
-    "name": "E18-枫丹-中央实验室遗址东南-2个",
+    "name": "E20-松茸-枫丹-废弃实验室南-2个",
     "tags": [],
     "type": "collect",
     "version": "1.0"
@@ -24,8 +24,8 @@
       "id": 1,
       "move_mode": "walk",
       "type": "teleport",
-      "x": 3847.1914,
-      "y": 4653.0884
+      "x": 3628.8164,
+      "y": 4447.917
     },
     {
       "action": "",
@@ -33,45 +33,44 @@
       "id": 2,
       "move_mode": "dash",
       "type": "path",
-      "x": 3826.8574,
-      "y": 4629.5391
+      "x": 3605.3613,
+      "y": 4380.377
     },
     {
       "action": "",
       "action_params": "",
       "id": 3,
-      "locked": false,
       "move_mode": "dash",
       "type": "path",
-      "x": 3833.6182,
-      "y": 4599.126
+      "x": 3621.7598,
+      "y": 4340.835
     },
     {
-      "action": "combat_script",
-      "action_params": "wait(0.05)",
+      "action": "",
+      "action_params": "",
       "id": 4,
       "move_mode": "dash",
       "type": "path",
-      "x": 3843.2549,
-      "y": 4588.7866
+      "x": 3621.9209,
+      "y": 4321.4858
     },
     {
       "action": "",
       "action_params": "",
       "id": 5,
-      "move_mode": "dash",
+      "move_mode": "jump",
       "type": "path",
-      "x": 3833.6182,
-      "y": 4599.126
+      "x": 3626.5283,
+      "y": 4310.9277
     },
     {
       "action": "",
       "action_params": "",
       "id": 6,
-      "move_mode": "dash",
+      "move_mode": "jump",
       "type": "path",
-      "x": 3803.7568,
-      "y": 4628.8667
+      "x": 3638.0439,
+      "y": 4308.1323
     },
     {
       "action": "",
@@ -79,8 +78,8 @@
       "id": 7,
       "move_mode": "dash",
       "type": "path",
-      "x": 3788.207,
-      "y": 4643.9043
+      "x": 3663.5273,
+      "y": 4295.2607
     },
     {
       "action": "",
@@ -88,8 +87,8 @@
       "id": 8,
       "move_mode": "dash",
       "type": "path",
-      "x": 3773.6357,
-      "y": 4652.9292
+      "x": 3686.0088,
+      "y": 4295.5029
     },
     {
       "action": "",
@@ -97,8 +96,8 @@
       "id": 9,
       "move_mode": "dash",
       "type": "path",
-      "x": 3737.8867,
-      "y": 4687.7139
+      "x": 3686.8711,
+      "y": 4288.2046
     },
     {
       "action": "combat_script",
@@ -106,8 +105,8 @@
       "id": 10,
       "move_mode": "dash",
       "type": "path",
-      "x": 3744.8848,
-      "y": 4689.9663
+      "x": 3704.8379,
+      "y": 4298.2178
     }
   ]
 }

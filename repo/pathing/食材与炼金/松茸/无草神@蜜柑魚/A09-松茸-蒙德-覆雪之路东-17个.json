@@ -9,10 +9,10 @@
     "bgi_version": "0.52.0",
     "description": "",
     "enable_monster_loot_split": false,
-    "last_modified_time": 1777298315681,
+    "last_modified_time": 1777800265450,
     "map_match_method": "",
     "map_name": "Teyvat",
-    "name": "A09-松茸-蒙德-覆雪之路东-15个",
+    "name": "A09-松茸-蒙德-覆雪之路东-17个",
     "tags": [],
     "type": "collect",
     "version": "1.0"
@@ -274,7 +274,6 @@
       "action": "",
       "action_params": "",
       "id": 29,
-      "locked": false,
       "move_mode": "walk",
       "type": "path",
       "x": -1446.5645,
@@ -293,7 +292,6 @@
       "action": "",
       "action_params": "",
       "id": 31,
-      "locked": false,
       "move_mode": "walk",
       "type": "path",
       "x": -1446.5645,
@@ -519,6 +517,15 @@
       "action": "",
       "action_params": "",
       "id": 56,
+      "move_mode": "jump",
+      "type": "path",
+      "x": -1572.6562,
+      "y": 1156.0732
+    },
+    {
+      "action": "",
+      "action_params": "",
+      "id": 57,
       "move_mode": "dash",
       "type": "path",
       "x": -1603.2363,
@@ -527,7 +534,7 @@
     {
       "action": "stop_flying",
       "action_params": "",
-      "id": 57,
+      "id": 58,
       "move_mode": "fly",
       "type": "path",
       "x": -1646.2637,
@@ -536,7 +543,7 @@
     {
       "action": "",
       "action_params": "",
-      "id": 58,
+      "id": 59,
       "move_mode": "walk",
       "type": "path",
       "x": -1651.4082,
@@ -545,7 +552,7 @@
     {
       "action": "",
       "action_params": "",
-      "id": 59,
+      "id": 60,
       "move_mode": "walk",
       "type": "path",
       "x": -1652.9355,
@@ -554,7 +561,7 @@
     {
       "action": "",
       "action_params": "",
-      "id": 60,
+      "id": 61,
       "move_mode": "dash",
       "type": "path",
       "x": -1669.6992,
@@ -563,7 +570,7 @@
     {
       "action": "stop_flying",
       "action_params": "",
-      "id": 61,
+      "id": 62,
       "move_mode": "fly",
       "type": "path",
       "x": -1677.4395,
@@ -572,7 +579,7 @@
     {
       "action": "combat_script",
       "action_params": "wait(0.321)",
-      "id": 62,
+      "id": 63,
       "move_mode": "walk",
       "type": "path",
       "x": -1680.3359,
