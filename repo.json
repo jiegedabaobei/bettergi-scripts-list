@@ -1,5 +1,5 @@
 {
-  "time": "20260507190340",
+  "time": "20260507210847",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -99116,7 +99116,7 @@
         {
           "name": "AutoFriendshipFowl",
           "type": "directory",
-          "version": "1.5",
+          "version": "1.6",
           "author": "花火",
           "authors": [
             {
@@ -99137,7 +99137,7 @@
             "好感",
             "突发事件"
           ],
-          "lastUpdated": "2026-04-27 22:20:51"
+          "lastUpdated": "2026-05-07 21:08:08"
         },
         {
           "name": "AutoHoeingOneDragon",
