@@ -1,5 +1,5 @@
 {
-  "time": "20260509204119",
+  "time": "20260510095348",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -99093,7 +99093,7 @@
         {
           "name": "AutoFriendshipFight",
           "type": "directory",
-          "version": "1.5.4",
+          "version": "1.5.8",
           "author": "秋云",
           "authors": [
             {
@@ -99111,7 +99111,7 @@
             "鳄鱼",
             "兽肉"
           ],
-          "lastUpdated": "2026-05-01 21:14:52"
+          "lastUpdated": "2026-05-10 09:53:20"
         },
         {
           "name": "AutoFriendshipFowl",
