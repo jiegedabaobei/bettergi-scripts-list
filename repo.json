@@ -1,5 +1,5 @@
 {
-  "time": "20260510095348",
+  "time": "20260510113944",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -100217,7 +100217,7 @@
         {
           "name": "WeeklyThousandStarRealm",
           "type": "directory",
-          "version": "3.4",
+          "version": "3.5",
           "author": "躁动的氨气",
           "authors": [
             {
@@ -100227,9 +100227,9 @@
           ],
           "description": "千星奇域每周成就经验刷取~|~无需自己找图，可用于利用成就高经验值刷取经验，默认配置每周刷满需要22分钟，秒刷图仅需9分钟",
           "tags": [
-            "bgi≥0.57.0"
+            "bgi≥0.60.0"
           ],
-          "lastUpdated": "2026-04-08 20:04:24"
+          "lastUpdated": "2026-05-10 11:39:14"
         },
         {
           "name": "YNF-AutoEat",
