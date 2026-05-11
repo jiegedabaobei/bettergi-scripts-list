@@ -7,12 +7,12 @@
       }
     ],
     "bgi_version": "0.45.0",
-    "description": "深黯魇语之主前往",
+    "description": "守望者·堕天前往",
     "enable_monster_loot_split": false,
-    "last_modified_time": 1778509379992,
+    "last_modified_time": 1778509657695,
     "map_match_method": "SIFT",
     "map_name": "Teyvat",
-    "name": "深黯魇语之主前往",
+    "name": "守望者·堕天前往",
     "tags": [],
     "type": "collect",
     "version": "1.0"
@@ -24,17 +24,17 @@
       "id": 1,
       "move_mode": "walk",
       "type": "teleport",
-      "x": 10288.62109375,
-      "y": 6357.51220703125
+      "x": -227.96875,
+      "y": 4109.873046875
     },
     {
-      "action": "stop_flying",
+      "action": "",
       "action_params": "",
       "id": 2,
-      "move_mode": "fly",
+      "move_mode": "dash",
       "type": "path",
-      "x": 10334.7607421875,
-      "y": 6388.36572265625
+      "x": -238.427734375,
+      "y": 4139.6220703125
     },
     {
       "action": "",
@@ -42,8 +42,8 @@
       "id": 3,
       "move_mode": "dash",
       "type": "path",
-      "x": 10359.5234375,
-      "y": 6405.48046875
+      "x": -257.708984375,
+      "y": 4196.93359375
     }
   ]
 }
