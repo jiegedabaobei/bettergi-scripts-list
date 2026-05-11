@@ -1,5 +1,5 @@
 {
-  "time": "20260511144113",
+  "time": "20260512005156",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -100839,7 +100839,7 @@
         {
           "name": "角色养成一条龙",
           "type": "directory",
-          "version": "1.8.0",
+          "version": "1.8.1",
           "author": "柒叶子",
           "authors": [
             {
@@ -100849,7 +100849,7 @@
           ],
           "description": "角色养成一条龙~|~详见readme.md",
           "tags": [],
-          "lastUpdated": "2026-03-06 22:49:08"
+          "lastUpdated": "2026-05-12 00:50:16"
         },
         {
           "name": "计算机电源操作",
